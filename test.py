@@ -2,4 +2,5 @@ import numpy as np
 def circumference(r):
 	return 2*np.pi*r
 def surfacearea(r):
-	return np.pi*r**2
+""" this function calculates the surface area of a circle with radius r
+"""	return np.pi*r**2
